@@ -10,7 +10,7 @@ This project applies an **Isolation Forest** algorithm to detect fraudulent tran
 - **Goal:** Identify high-risk "materiality" deviations that standard audits might miss.
 
 ## Mechanistic Audit Results
-The following chart shows the features that most significantly impacted the model's decision-making process. This provides interpretability—showing *why* a transaction was flagged.
+The following chart shows the features that most significantly impacted the model's decision-making process. This provides interpretability showing *why* a transaction was flagged.
 
 ![Audit Results](results/feature_importance.png)
 
