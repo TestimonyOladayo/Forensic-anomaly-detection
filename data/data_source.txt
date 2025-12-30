@@ -1,0 +1,4 @@
+Dataset Source
+Due to the large file size (284,807 transactions), the raw CSV data is hosted externally.
+Source: Kaggle Credit Card Fraud Detection Dataset URL: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+This dataset is used to demonstrate unsupervised anomaly detection using Isolation Forests, focusing on the statistical isolation of rare financial events.
